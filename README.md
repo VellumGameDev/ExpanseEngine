@@ -18,7 +18,7 @@
 
 ## 📖 Philosophy
 
-ExpanseEngine™ focuses on **clarity, extensibility, and performance**, designed to empower both hobbyists and professionals building interactive 3D applications, simulations, and full-scale games.
+ExpanseEngine focuses on **clarity, extensibility, and performance**, designed to empower both hobbyists and professionals building interactive 3D applications, simulations, and full-scale games.
 
 ---
 
