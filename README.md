@@ -11,7 +11,7 @@
 - 🧱 Visual Editor for asset, scene, and code management
 - 🔌 Plugin & Extension System
 - 🛠️ Built-in Tools: Material Editor, Entity Inspector, and Asset Pipeline
-- 🌐 Multi-platform support (Windows/Linux)
+- 🌐 Windows-platform support (We will try to add Linux and MacOS)
 - 📐 UI built for efficiency and modern UX
 
 ---
