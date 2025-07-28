@@ -1,10 +1,10 @@
-﻿# ExpanseEngine™ — Open-Source Vulkan Game Engine
+﻿# ExpanseEngine — Open-Source Vulkan Game Engine
 
-**ExpanseEngine™** is a modern, modular, and high-performance open-source game engine written in **C++/C**, currently using the **Vulkan graphics API**. It includes a professional-grade editor designed to offer workflows similar to engines like **ezEngine**, **FlaxEngine**, **Unity**, and **Unreal Engine**.
+**ExpanseEngine** is a modern, modular, and high-performance open-source game engine written in **C++/C**, currently using the **[Vulkan graphics API](https://www.vulkan.org/)**. It will include a professional-grade editor designed to offer workflows similar to engines like **[ezEngine](https://github.com/ezEngine/ezEngine)**, **[FlaxEngine](https://github.com/FlaxEngine/FlaxEngine)**, **[Unity](https://unity.com/)**, and **[Unreal Engine](https://www.unrealengine.com/)**.
 
 ---
 
-## ✨ Features
+## ✨ Features (SOON)
 
 - 🌀 Vulkan-Only Renderer (DirectX 12 support planned)
 - 🎮 C++ Modular Architecture

@@ -1,6 +1,6 @@
-﻿# Contributing to ExpanseEngine™
+﻿# Contributing to ExpanseEngine
 
-Thank you for your interest in contributing to **ExpanseEngine™**! We welcome all contributions — from reporting bugs to submitting pull requests and improving documentation.
+Thank you for your interest in contributing to **ExpanseEngine**! We welcome all contributions — from reporting bugs to submitting pull requests and improving documentation.
 
 ---
 
