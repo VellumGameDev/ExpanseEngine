@@ -8,17 +8,17 @@ Please ensure that any added third-party code complies with the **MIT License co
 
 ## ✅ Third-Party Dependencies
 
-- glfw (https://github.com/glfw/glfw) - 3.4
-- glslang (https://github.com/KhronosGroup/glslang) - 15.4.0
-- json (https://github.com/nlohmann/json) - 3.12.0
-- spdlog (https://github.com/gabime/spdlog) - 1.15.3
-- imgui (https://github.com/ocornut/imgui) - 1.92.1
-- cxxopts (https://github.com/jarro2783/cxxopts) - 3.3.1
-- filesystem (https://github.com/gulrak/filesystem) - 1.5.14
-- glm (https://github.com/g-truc/glm) - 1.0.1
-- flecs (https://github.com/SanderMertens/flecs) - 4.1.0
-- JoltPhysics (https://github.com/jrouwe/JoltPhysics) - 5.3.0
-- Vulkan (https://vulkan.lunarg.com/) - 1.4.321.0
+- glfw (https://github.com/glfw/glfw)
+- glslang (https://github.com/KhronosGroup/glslang)
+- json (https://github.com/nlohmann/json)
+- spdlog (https://github.com/gabime/spdlog)
+- imgui (https://github.com/ocornut/imgui)
+- cxxopts (https://github.com/jarro2783/cxxopts)
+- filesystem (https://github.com/gulrak/filesystem)
+- glm (https://github.com/g-truc/glm)
+- flecs (https://github.com/SanderMertens/flecs)
+- JoltPhysics (https://github.com/jrouwe/JoltPhysics)
+- Vulkan (https://vulkan.lunarg.com/)
 
 ---
 
